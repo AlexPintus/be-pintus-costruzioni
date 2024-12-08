@@ -9,7 +9,7 @@ Requisiti:
 
 Installazione:
 1. Clona il repository:
-   git clone https://github.com/BePintus/be-pintus-costruzioni.git
+   git clone https://github.com/AlexPintus/be-pintus-costruzioni.git
    <br>
    cd be-pintus-costruzioni
 
